@@ -25,6 +25,7 @@ print(f"{a3:.4} rad")
 print(f"{a4:.4} rad")
 print()
 print("Tehtävä 1.3.")
+# tehtävä 1.3
 A = np.array([30, 45, 60, 90, 120, 135, 150, 180, 270, 360])
 
 for i in A:
